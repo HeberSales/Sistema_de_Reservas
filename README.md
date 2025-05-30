@@ -33,7 +33,10 @@ Para rodar o cliente, vá para o diretório onde `client-jar-with-dependencies.j
 java -jar client-jar-with-dependencies.jar localhost
 ```
 
-**Observação:** `localhost` é o IP ou hostname do servidor. Se nenhum valor for fornecido, o cliente assumirá `localhost` como padrão.
+**Observação:** 
+- Rodar comando do servidor para iniciar , e depois o Cliente. Em terminais separados.
+
+- `localhost` é o IP ou hostname do servidor. Se nenhum valor for fornecido, o cliente assumirá `localhost` como padrão.
 
 ## Compilação
 
